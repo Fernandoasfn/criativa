@@ -52,7 +52,7 @@ function gerarGaleria(titulo, arr) {
 
     fotos = arr.forEach(foto => {
         galeria += `<div class="col-6 col-md-4 p-3">
-                        <img class="col-12 rounded-3 shadow" src="${foto}" alt="" >
+                        <img class="col-12 rounded-3 shadowP" src="${foto}" alt="" >
                     </div>`
         
     });
