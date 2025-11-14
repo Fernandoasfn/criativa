@@ -1,4 +1,4 @@
-let fotosAniversario = [
+let aniversarios = [
     './imagens/aniversario/aniversario.png',
     './imagens/aniversario/aniversario2.png',
     './imagens/aniversario/aniversario3.png',
